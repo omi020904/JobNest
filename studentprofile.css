@@ -134,3 +134,6 @@ h1 {
 .resume-btn:hover {
     background-color: #ad5389;
 }
+a {
+    text-decoration: none;
+}

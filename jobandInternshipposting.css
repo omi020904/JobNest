@@ -118,3 +118,17 @@ ul li:hover {
     background: #ad5389;
     color: white;
 }
+/* Apply Button */
+.apply-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #3c1053;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.apply-btn:hover {
+    background-color: #5a189a;
+}
